@@ -1,0 +1,7 @@
+h1{
+    width: 200px;
+    background-color: blueviolet;
+    padding: 10px;
+    border: 4px solid black;
+    /* tamanho:4px; espessura:solid; cor */
+}
